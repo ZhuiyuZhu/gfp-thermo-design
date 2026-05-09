@@ -102,4 +102,5 @@ python scripts/02_sequence_assembler_v2_1.py
 - [fair-esm](https://pypi.org/project/fair-esm/)
 
 ## 联系方式
-Team: YourTeamName
+Team: wocaideyaoming
+E-mail：zhuzhuiyu@stu.xjtu.edu.cn
